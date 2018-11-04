@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HLTAT.Business.Factory\HLTAT.Business.Factory.csproj" />
+    <ProjectReference Include="..\HLTAT.Business.Model\HLTAT.Business.Model.csproj" />
+  </ItemGroup>
+
+</Project>
